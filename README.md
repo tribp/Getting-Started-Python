@@ -11,5 +11,5 @@ Essentials Python topics
 
 The **@property** decorator allows you to add specific logic when read, write or delete a property
 
-see example: [@property example](./code/operty_decorator.py)
+see example: [@property example](./code/property_decorator.py)
 
